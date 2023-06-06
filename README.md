@@ -1,3 +1,3 @@
 **@wonderjunealone** is here.
 
-`learning c++ and comp-scie.`
+`interisting in c++ and comp-scie.`
